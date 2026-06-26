@@ -1,4 +1,4 @@
-📁 EdTech-SQL-PowerBI-Project
+EdTech-SQL-PowerBI-Project
 │
 ├── README.md
 ├── edtech1.xlsx                # Dataset file
@@ -10,15 +10,15 @@
 │    └── ...
 └── Report_Document.pdf         # Optional compiled report (Word/PDF)
 
-# 🎓 EdTech Apps Data Analysis — Power BI + SQL Project
+# EdTech Apps Data Analysis — Power BI + SQL Project
 
-## 📋 Overview
+## Overview
 This project explores an **EdTech Apps dataset** from the Google Play Store to derive meaningful business insights using **SQL** and **Power BI**.  
 It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY, HAVING, LIMIT) and visualizing insights through Power BI dashboards.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Practice basic-to-intermediate **SQL queries** on a real-world dataset.  
 - Filter, group, and aggregate data to extract insights.  
 - Build an **interactive Power BI dashboard** showcasing key metrics.  
@@ -26,7 +26,7 @@ It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY,
 
 ---
 
-## 🧩 Dataset Information
+##  Dataset Information
 **File:** `edtech1.xlsx`  
 **Description:** Contains metadata and statistics of top EdTech apps from the Google Play Store.
 
@@ -48,7 +48,7 @@ It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY,
 
 ---
 
-## 🧠 Key Questions (SQL Tasks)
+##  Key Questions (SQL Tasks)
 1. Top 10 apps with highest installs  
 2. Average score of all apps  
 3. App with highest number of ratings  
@@ -72,7 +72,7 @@ It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY,
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 | Tool | Purpose |
 |------|----------|
 | **Power BI** | Data visualization, measures, filtering |
@@ -82,7 +82,7 @@ It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY,
 
 ---
 
-## 🚀 Steps to Reproduce
+##  Steps to Reproduce
 1. Open **Power BI Desktop**.  
 2. Load dataset → `Get Data > Excel > edtech1.xlsx`.  
 3. Verify data types (numeric/date).  
@@ -91,7 +91,7 @@ It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY,
 
 ---
 
-## 🧾 Deliverables
+##  Deliverables
 | File | Description |
 |------|--------------|
 | `edtech_queries.sql` | Contains all 20 SQL queries |
@@ -101,7 +101,7 @@ It focuses on strengthening SQL fundamentals (SELECT, WHERE, GROUP BY, ORDER BY,
 
 ---
 
-## 📈 Power BI Insights
+##  Power BI Insights
 Sample visuals created:
 - Top 10 Most Installed Apps  
 - Developer-wise App Distribution  
@@ -111,24 +111,24 @@ Sample visuals created:
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 **Name:** Kriti Kumari  
 **Role:** Data Analyst (Learning SQL & Power BI)  
 
 ---
 
-## 🌟 Learnings
+##  Learnings
 - Gained confidence in writing and executing SQL queries.  
 - Understood how to replicate SQL logic using **Power BI filters and DAX**.  
 - Practiced analytical storytelling and dashboard design.  
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 This project demonstrates how SQL and Power BI complement each other in data analysis — SQL for querying and Power BI for visualization.  
 It’s a complete mini-project ideal for beginners learning **data analytics and visualization workflows**.
 
 ---
 
-## 🪪 License
+##  License
 This project is open for educational and learning purposes.
